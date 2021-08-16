@@ -1,4 +1,8 @@
 - <h1><center>👋 Hi, I’m Shreyansh Jain</h1>
+  <h3><align="center">FULLSTACK DEVLOPER</h3>
+  <h3><align="center">CODER</h3>
+   <h3><align="center">STUDENT</h3>
+       
 
   
 <h3 align="left">Connect with me:</h3>
