@@ -1,7 +1,7 @@
 - <h1 align="center">👋  I’m Shreyansh Jain</h1>
   <h4 align="center">FULLSTACK DEVELOPER</h4>
   <h4 align="center">CODER</h4>
-   <h4 align="center">STUDENT</h4>
+   <h4 align="center">MACHINE LEARNING</h4>
        
 
   
