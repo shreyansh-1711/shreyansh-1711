@@ -1,4 +1,4 @@
-- <h1 align="center">👋  I’m Shreyansh</h1>
+- <h1 align="center">👋  I’m Shreyansh Jain</h1>
   <h4 align="center">FULL-STACK DEVELOPER</h4>
   <h4 align="center">COMPETITIVE CODER</h4>
    <h4 align="center"> MACHINE-LEARNING</h4>
