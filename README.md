@@ -30,6 +30,11 @@
 </a>
 
 </div>
+<p></p>
+<p align="justify">
+welcome to my GitHub Page. I am a Undergraduate from Fr. C. Rodrigues Institute of Technology. I am a passionate learner in the field of Competitive Programming, Artificial intelligence, Machine Learning , Data Science and Web Development. I love exploring new technologies and leveraging them to solve real-life problems. 
+
+</p>
 
 ## My favorite tools and technologies ⚙️
 
