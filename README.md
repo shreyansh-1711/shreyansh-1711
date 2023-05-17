@@ -99,7 +99,13 @@
       <br>MySQL
     </td>
   </tr>
- 
  <tr>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>C++
+    </td>
+    
  </tr>
 </table>
