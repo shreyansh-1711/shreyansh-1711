@@ -124,6 +124,10 @@ Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigu
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="ASP.NET Core" />
       <br>Postman
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="ASP.NET Core" />
+      <br>PHP
+    </td>
 
  </tr>
 
