@@ -112,6 +112,14 @@
       </a>
       <br>Github
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="ASP.NET Core" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="ASP.NET Core" />
+      <br>Postman
+    </td>
 
  </tr>
 </table>
