@@ -13,7 +13,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/_shreyansh25_">
-<img src="https://img.shields.io/badge/codeforces-330F63?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://img.shields.io/badge/codeforces-1aac14?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/shreyansh-1711">
