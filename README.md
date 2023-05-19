@@ -132,6 +132,10 @@ Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigu
         <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="ASP.NET Core" />
       <br>Svelte
     </td>
+    <td align="center" width="96">
+        <img src="strapi.svg" width="48" height="48" alt="ASP.NET Core" />
+      <br>Strapi
+    </td>
 
  </tr>
 
