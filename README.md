@@ -32,7 +32,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigues Institute of Technology with a passion for Competitive Programming, AI, ML, Data Science, and Web Development. I thrive on exploring cutting-edge technologies and using them to tackle real-world challenges. Let's code and innovate together!
+Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigues Institute of Technology with a passion for Competitive Programming, AI, ML, Data Science, and Web Development. I thrive on exploring cutting-edge technologies and using them to tackle real-world challenges. Let's code and innovate together!!
 </p>
 
 ## My favorite tools and technologies ⚙️
