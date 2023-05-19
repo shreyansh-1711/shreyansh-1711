@@ -133,7 +133,7 @@ Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigu
       <br>Svelte
     </td>
     <td align="center" width="96">
-        <img src="strapi.svg" width="48" height="48" alt="ASP.NET Core" />
+        <img src="strapi.1024x1011.png" width="48" height="48" alt="ASP.NET Core" />
       <br>Strapi
     </td>
 
