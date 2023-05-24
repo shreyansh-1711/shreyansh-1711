@@ -155,7 +155,7 @@ Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigu
   <summary>Activity Graph 📈</summary>
   <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shreyansh-1711&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="shreyansh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shreyansh-1711&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 
 </details>
 
