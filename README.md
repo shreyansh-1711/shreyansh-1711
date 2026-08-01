@@ -1,8 +1,5 @@
-
-# **<div align="center"></ Hello ></div>**  
-  
-
-### <div align="center">I'm Shreyansh, a Full Stack Developer</div>  
+<h1 align="center">Hi there 👋, I'm Shreyansh Jain</h1>
+<h3 align="center">Software Engineer | Backend & Full Stack Developer</h3>
   
 
 <br/>  
@@ -23,7 +20,7 @@ Software Engineer with 2+ years of experience building distributed backend syste
 - 🛠️ Skilled in building **microservices** with Spring Boot and React, leveraging **Kafka, Camunda BPM**, and **multithreading**.
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 > Tools and technologies that I have worked with and am interested in
 
