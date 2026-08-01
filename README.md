@@ -35,111 +35,31 @@
 Software Engineer with 2+ years of experience building distributed backend systems using Java, Spring Boot, Kafka, and Oracle SQL. Interested in scalable systems, backend architecture, and high-performance APIs.
 </p>
 
-## My favorite tools and technologies ⚙️
+## 🧰 Tech Stack
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
-   <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="bootstrap" />
-      <br>MUI
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>ReactJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-      <br>NextJs
-    </td>
-  </tr>
-
-  <tr>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node Js" />
-      <br>NodeJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="ASP.NET Core" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="ASP.NET Core" />
-      <br>Mongo
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
- <tr>
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="ASP.NET Core" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="ASP.NET Core" />
-      <br>Postman
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="ASP.NET Core" />
-      <br>PHP
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="ASP.NET Core" />
-      <br>Svelte
-    </td>
-    <!-- <td align="center" width="96">
-        <img src="strapi.1024x1011.png" width="48" height="48" alt="ASP.NET Core" />
-      <br>Strapi
-    </td> -->
-
- </tr>
-
+<table> 
+<tr> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/><br>Java </td> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/><br>Spring Boot </td> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/><br>React </td> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/><br>Oracle DB </td> 
+</tr> 
+<tr> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/><br>Docker </td> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br>Git </td>
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/><br>Maven </td> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/><br>JavaScript </td> 
+</tr> 
+<tr> 
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/><br>TypeScript </td>
+  <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/><br>Bash </td> 
+  <td align="center" width="120"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" width="45" height="45" alt="Kafka"/><br>Kafka </td> 
+  <td align="center" width="120"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/camunda.svg" width="45" height="45" alt="Camunda"/><br>Camunda BPM </td> 
+</tr> 
 </table>
+
 
 ## Github stats 📊
 
@@ -151,17 +71,9 @@ Software Engineer with 2+ years of experience building distributed backend syste
   <br/>
 </details>
 
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
+### 📫 Reach Me
+📍 Panvel, Maharashtra, India  
+📧 shreyansh.jain251202@gmail.com  
+📞 +91 8385801009  
+🌐 [LinkedIn](https://www.linkedin.com/in/shreyansh-1711) | [GitHub](https://github.com/shreyansh-1711) | [LeetCode](https://leetcode.com/u/shreyansh-1711/)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="shreyansh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shreyansh-1711&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
-
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=shreyansh-1711&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
