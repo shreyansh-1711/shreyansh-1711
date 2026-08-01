@@ -57,7 +57,7 @@
 📍 Panvel, Maharashtra, India  
 📧 shreyansh.jain251202@gmail.com  
 📞 +91 8385801009  
-🌐 [LinkedIn](https://www.linkedin.com/in/shreyansh-1711) | [GitHub](https://github.com/shreyansh-1711) | [LeetCode](https://leetcode.com/u/shreyansh-1711/)
+🌐 [LinkedIn](https://www.linkedin.com/in/shreyansh-jain1711) | [GitHub](https://github.com/shreyansh-1711) | [LeetCode](https://leetcode.com/u/shreyansh-1711/)
 
 
 ### 🚀 Let's Collaborate!
