@@ -2,17 +2,14 @@
 <h3 align="center">Software Engineer | Backend & Full Stack Developer</h3>
   
 
-<br/>  
+--- 
 <p align="center">
     <img src="https://img.shields.io/badge/LinkedIn-Shreyansh%20Jain-blue?logo=linkedin" alt="LinkedIn">
     <img src="https://img.shields.io/badge/GitHub-Shreyansh--Jain-black?logo=github" alt="GitHub">
     <img src="https://img.shields.io/badge/Email-Shreyanshjain-red?logo=gmail" alt="Gmail">
 </p>
 
-<p></p>
-<p align="justify">
-Software Engineer with 2+ years of experience building distributed backend systems using Java, Spring Boot, Kafka, and Oracle SQL. Interested in scalable systems, backend architecture, and high-performance APIs.
-</p>
+---
 
 ### 💼 About Me
 - 🔭 Currently working at **The Clearing Corporation of India Ltd. (CCIL)** as a Software Engineer.
@@ -46,7 +43,7 @@ Software Engineer with 2+ years of experience building distributed backend syste
 </table>
 
 
-## Github stats 📊
+### Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
@@ -62,3 +59,10 @@ Software Engineer with 2+ years of experience building distributed backend syste
 📞 +91 8385801009  
 🌐 [LinkedIn](https://www.linkedin.com/in/shreyansh-1711) | [GitHub](https://github.com/shreyansh-1711) | [LeetCode](https://leetcode.com/u/shreyansh-1711/)
 
+
+### 🚀 Let's Collaborate!
+I'm open to collaboration on:
+- Fintech and backend-heavy systems
+- Java/Spring Boot/React projects
+- Microservice & API performance optimization
+- Open Source Contributions
