@@ -32,7 +32,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page! I'm an enthusiastic undergraduate from Fr. C. Rodrigues Institute of Technology with a passion for Competitive Programming, AI, ML, Data Science, and Web Development. I thrive on exploring cutting-edge technologies and using them to tackle real-world challenges. Let's code and innovate together!!
+Software Engineer with 2+ years of experience building distributed backend systems using Java, Spring Boot, Kafka, and Oracle SQL. Interested in scalable systems, backend architecture, and high-performance APIs.
 </p>
 
 ## My favorite tools and technologies ⚙️
