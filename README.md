@@ -35,6 +35,12 @@
 Software Engineer with 2+ years of experience building distributed backend systems using Java, Spring Boot, Kafka, and Oracle SQL. Interested in scalable systems, backend architecture, and high-performance APIs.
 </p>
 
+### 💼 About Me
+- 🔭 Currently working at **The Clearing Corporation of India Ltd. (CCIL)** as a Software Engineer.
+- 🧠 Passionate about **Core Java, Backend Development, and Distributed Systems**.
+- 🛠️ Skilled in building **microservices** with Spring Boot and React, leveraging **Kafka, Camunda BPM**, and **multithreading**.
+---
+
 ## 🧰 Tech Stack
 
 > Tools and technologies that I have worked with and am interested in
